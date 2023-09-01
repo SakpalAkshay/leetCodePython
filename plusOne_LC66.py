@@ -18,3 +18,14 @@ class Solution:
         for i in newStr:
             l.append(int(i))
         return l
+
+    def secondPlusOne(self, digits: List[int]) -> List[int]:
+        strg = ''
+        for i in digits:
+            strg+= str(i)
+        numStr = int(strg)
+        numStr +=1
+        l = []
+        for i in str(numStr):
+            l.append(int(i))
+        return l
