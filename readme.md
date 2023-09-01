@@ -3,3 +3,4 @@ Solved Questions
 1. Two Sum
 2. Palidrome Number
 3. Remove Element
+4. Lenght of Last Element
