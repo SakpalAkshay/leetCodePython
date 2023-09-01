@@ -1,7 +1,7 @@
 '''Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.'''
 
 
-
+#o(n^2) solution 
 class Solution(object):
     def twoSum(self, nums, target):
         """
