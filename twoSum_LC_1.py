@@ -15,3 +15,16 @@ class Solution(object):
 
                 if (nums[i]+ nums[j] == target):
                     return [i,j]
+
+    #o(n) solution
+    def twoSum2(self,nums, target):
+        seen_values = {}
+        
+        for index, value in enumerate(nums):
+            if target - value in seen_values:
+                return seen_values[target - value], index
+            
+            else:
+                seen_values[value] = index
+                
+        return -1
