@@ -4,3 +4,5 @@ Solved Questions
 2. Palidrome Number
 3. Remove Element
 4. Lenght of Last Element
+5. Plus One
+6. Remove Duplicates from Sorted array
