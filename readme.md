@@ -6,3 +6,4 @@ Solved Questions
 4. Lenght of Last Element
 5. Plus One
 6. Remove Duplicates from Sorted array
+7. Majority Element
