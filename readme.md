@@ -8,3 +8,4 @@ Solved Questions
 6. Remove Duplicates from Sorted array
 7. Majority Element
 8. Merge Strings Alternately
+9. Kids with greatest number of candies.
