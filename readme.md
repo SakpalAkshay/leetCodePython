@@ -7,3 +7,4 @@ Solved Questions
 5. Plus One
 6. Remove Duplicates from Sorted array
 7. Majority Element
+8. Merge Strings Alternately
