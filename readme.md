@@ -9,3 +9,4 @@ Solved Questions
 7. Majority Element
 8. Merge Strings Alternately
 9. Kids with greatest number of candies.
+10. Search Insert Position
