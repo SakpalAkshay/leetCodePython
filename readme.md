@@ -11,3 +11,4 @@ Solved Questions
 9. Kids with greatest number of candies.
 10. Search Insert Position
 11. Contains Duplicate
+12. Missing Number
