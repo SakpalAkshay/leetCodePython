@@ -12,3 +12,4 @@ Solved Questions
 10. Search Insert Position
 11. Contains Duplicate
 12. Missing Number
+13. Single Number
