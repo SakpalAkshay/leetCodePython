@@ -13,3 +13,4 @@ Solved Questions
 11. Contains Duplicate
 12. Missing Number
 13. Single Number
+14. Squares of Sorted Array
