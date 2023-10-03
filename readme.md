@@ -14,3 +14,4 @@ Solved Questions
 12. Missing Number
 13. Single Number
 14. Squares of Sorted Array
+15. Valid Palindrome
