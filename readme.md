@@ -15,3 +15,4 @@ Solved Questions
 13. Single Number
 14. Squares of Sorted Array
 15. Valid Palindrome
+16. Move Zeros
