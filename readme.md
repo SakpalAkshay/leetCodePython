@@ -16,3 +16,4 @@ Solved Questions
 14. Squares of Sorted Array
 15. Valid Palindrome
 16. Move Zeros
+17. Reverse Vowels of a String
