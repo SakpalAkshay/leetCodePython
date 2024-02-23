@@ -18,3 +18,4 @@ Solved Questions
 16. Move Zeros
 17. Reverse Vowels of a String
 18. Maximum Sum of Distinct Subarrays With Length K
+19. Valid Anagram
