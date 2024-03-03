@@ -1,4 +1,4 @@
-lass Solution:
+class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         lenfirst = len(word1)
         lenSec = len(word2)
