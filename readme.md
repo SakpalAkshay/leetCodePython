@@ -22,3 +22,4 @@ Solved Questions
 20. Best Time to Buy and Sell Stocks
 21. Roman To Integer
 22. Contains Duplicate II
+23. Find the Index of the First Occurrence in a String
