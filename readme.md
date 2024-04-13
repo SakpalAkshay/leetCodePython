@@ -26,3 +26,4 @@ Solved Questions
 24. Maximum Average Subarray I
 25. Add Strings
 26. Reverse String
+27. Guess Number Higher or Lower
