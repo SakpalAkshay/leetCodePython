@@ -25,3 +25,4 @@ Solved Questions
 23. Find the Index of the First Occurrence in a String
 24. Maximum Average Subarray I
 25. Add Strings
+26. Reverse String
