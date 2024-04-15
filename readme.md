@@ -27,3 +27,4 @@ Solved Questions
 25. Add Strings
 26. Reverse String
 27. Guess Number Higher or Lower
+28. First Bad Version
