@@ -9,7 +9,7 @@ class Solution:
                     j-=1
         return len(nums)
 
-  #O(n) solution
+  # Another O(n^2) solution
   def removeDuplicatesTwo(self, nums: List[int]) -> int:
         start = 0
         end = len(nums) - 1
@@ -21,3 +21,14 @@ class Solution:
             else:
                 start = start + 1 
         return len(nums)
+# Pushed O(n) solution
+ def removeDuplicatesThree(self, nums: List[int]) -> int:
+        # let there be two pointer one tracking the unique elements place
+        j = 1
+        
+        for i in range(1,len(nums)):
+            if nums[i] !=nums[i-1]:
+                nums[j] = nums[i]
+                j+=1
+        return j
+
