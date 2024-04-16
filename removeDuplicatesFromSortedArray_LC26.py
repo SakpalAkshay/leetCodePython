@@ -9,7 +9,7 @@ class Solution:
                     j-=1
         return len(nums)
 
-  # Another O(n^2) solution
+  # Another O(n^2) solution using Two pointers
   def removeDuplicatesTwo(self, nums: List[int]) -> int:
         start = 0
         end = len(nums) - 1
