@@ -32,3 +32,13 @@ class Solution:
                 i+=1
 
         return j + 1
+
+
+    #Pushed more simple solution
+    def removeElement3(self, nums: List[int], val: int) -> int:
+         l = 0
+         for r in range(len(nums)):
+            if nums[r] != val:  # loop through if num[r] if not equals then swap else just r gets incremented whenever it matches, 
+                nums[l] = nums[r]
+                l+=1
+         return l
