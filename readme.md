@@ -33,3 +33,4 @@ Solved Questions
 31. Duplicate Zeros
 32. Intersection of Two Arrays
 33. Minimum Common Number
+34. Add Digits
