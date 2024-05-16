@@ -31,4 +31,21 @@ class Solution:
                 nums[j] = nums[i]
                 j+=1
         return j
+#using while loop
+def removeDuplicates4(arr)-> int:
+    # arr = [2,3,3,3,4,5,6,6,9,9] op = [2,3,4,5,6,9]
+    #because it is sorted but duplicate then 0th index <= 1st index and so on
+    #because its required Inplace you either swap or you replace element with something else
+    i = 1 
+    j = 1 #as we required to return unique elements in the start we need to return the start of array as unique element and to track it we use j
+    while i < len(arr):
+        if arr[i] == arr[i-1]:
+            i+=1
+            continue
+        else:
+            #we found a unique element
+            arr[j] = arr[i]
+            j +=1
+        i+=1
+    return j
 
