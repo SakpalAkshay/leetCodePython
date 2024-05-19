@@ -28,9 +28,10 @@ Solved Questions
 26. Reverse String
 27. Guess Number Higher or Lower
 28. First Bad Version
-29. Reverse Only Letters
-30. Find N Unique Integers Sum up to Zero
-31. Duplicate Zeros
-32. Intersection of Two Arrays
-33. Minimum Common Number
-34. Add Digits
+29. Power of Two
+30. Reverse Only Letters
+31. Find N Unique Integers Sum up to Zero
+32. Duplicate Zeros
+33. Intersection of Two Arrays
+34. Minimum Common Number
+35. Add Digits
