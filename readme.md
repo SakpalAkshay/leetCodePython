@@ -29,10 +29,9 @@ Solved Questions
 27. Guess Number Higher or Lower
 28. First Bad Version
 29. Power of Two
-30. Minimum Common Value
-31. Reverse Only Letters
-32. Find N Unique Integers Sum up to Zero
-33. Duplicate Zeros
-34. Intersection of Two Arrays
-35. Minimum Common Number
-36. Add Digits
+30. Reverse Only Letters
+31. Find N Unique Integers Sum up to Zero
+32. Duplicate Zeros
+33. Intersection of Two Arrays
+34. Minimum Common Number
+35. Add Digits
