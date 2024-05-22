@@ -35,3 +35,4 @@ Solved Questions
 33. Intersection of Two Arrays
 34. Minimum Common Number
 35. Add Digits
+36. Intersection of Two Arrays II
