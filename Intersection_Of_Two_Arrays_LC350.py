@@ -9,14 +9,10 @@ class Solution:
                     exist[i]+=1
                 else:
                     exist[i]=1
-            
             for i in nums1:
                 if i in exist and exist[i]!=0:
                     exist[i]-=1
-                    result.append(i)
-            
-
-            
+                    result.append(i)     
         else:
             for i in nums1:
                 if i in exist:
