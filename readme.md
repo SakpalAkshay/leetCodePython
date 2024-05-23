@@ -36,3 +36,4 @@ Solved Questions
 34. Minimum Common Number
 35. Add Digits
 36. Intersection of Two Arrays II
+37. Squares of Sorted Array
