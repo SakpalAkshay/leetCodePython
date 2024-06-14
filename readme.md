@@ -33,7 +33,7 @@ Solved Questions
 31. Find N Unique Integers Sum up to Zero
 32. Duplicate Zeros
 33. Intersection of Two Arrays
-34. Minimum Common Number
+34. Minimum Common Value
 35. Add Digits
 36. Intersection of Two Arrays II
 37. Squares of Sorted Array
