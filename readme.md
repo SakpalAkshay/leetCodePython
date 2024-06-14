@@ -37,3 +37,4 @@ Solved Questions
 35. Add Digits
 36. Intersection of Two Arrays II
 37. Squares of Sorted Array
+38. Reverse Linked List
