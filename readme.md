@@ -39,3 +39,4 @@ Solved Questions
 37. Squares of Sorted Array
 38. Reverse Linked List
 39. Middle of the Linked List
+40. Remove Linked List Elements
