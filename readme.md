@@ -42,3 +42,4 @@ Solved Questions
 40. Remove Linked List Elements
 41. Max Consecutive One
 42. Find Number Closest to Zero
+43. Is Subsequence
