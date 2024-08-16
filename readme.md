@@ -41,3 +41,4 @@ Solved Questions
 39. Middle of the Linked List
 40. Remove Linked List Elements
 41. Max Consecutive One
+42. Find Number Closest to Zero
